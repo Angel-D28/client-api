@@ -15,6 +15,7 @@ public @interface TecyLabLog {
         READ,
         UPDATE,
         DELETE,
-        OTHER
+        OTHER,
+        ERROR
     }
 }
